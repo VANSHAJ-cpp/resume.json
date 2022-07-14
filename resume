@@ -1,0 +1,142 @@
+{
+    "basics": {
+        "name": "Vanshaj Gupta",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/93986234?s=400&u=67129509aeb509b8a63760839e59469a3bcf1831&v=4",
+        "email": "2021kucp1022@iiitkota.ac.in",
+        "phone": "+918941001548",
+        "website": "",
+        "summary": "I am a student at the IIITK with a Major in Computer Science. I enjoy Researching and Exploring new technologies.",
+        "location": {
+            "address": "Saharanpur",
+            "postalCode": "247001",
+            "city": "Saharanpur",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "vans_gupta_1215",
+                "url": "https://www.twitter.com/vans_gupta_1215"
+            },
+            {
+                "network": "Github",
+                "username": "VANSHAJ-cpp",
+                "url": "https://github.com/VANSHAJ-cpp"
+            },
+            {
+                "network": "linkedin",
+                "username": "vanshaj-gupta-pro",
+                "url": "https://www.linkedin.com/in/vanshaj-gupta-pro/"
+            },
+            {
+                "network": "Instagram",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Chegg Inc.",
+            "position": Mathematics Tutor",
+            "website": "https://www.cheggindia.com/",
+            "startDate": "",
+            "endDate": "",
+            "summary": "I am Chegg tutor in Advance Mathematics and have helped students around the globe with their Maths Problems."
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.42",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Node",
+                "Next",
+                "PHP",
+                "MySQL",
+                "Git",
+                "C/C++" 
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Basketball",
+                "Cricket"
+            ]
+        }
+    ]
+}
